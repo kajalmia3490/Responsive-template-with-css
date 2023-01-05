@@ -1,0 +1,137 @@
+@media only screen and (min-width: 0px) and (max-width: 575px) {
+
+    /*for mobile device use*/
+    * {
+        margin: 0;
+        padding: 0;
+        text-decoration: none;
+        font-family: sans-serif serif;
+    }
+
+    section {
+        margin: 5px;
+    }
+
+    .section {
+        margin: 0px 0px 0px 0px;
+    }
+
+    header {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .logo img {
+        width: 200px;
+    }
+
+    .right-header {
+        padding-left: 50px;
+    }
+    .navbar .nav {
+    padding-left: 30px;
+}
+    .navbar {
+        padding-top: 40px;
+    }
+
+    .main-section {
+        display: inline-block;
+        text-align: center;
+    }
+
+    .left-section {
+        padding-right: 0px;
+        padding-top: 0px;
+    }
+    .bold-font {
+        font-size: 40px;
+    }
+    .right-section img {
+        width: 250px;
+    }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    * {
+        margin: 0;
+        padding: 0;
+        text-decoration: none;
+        font-family: sans-serif serif;
+    }
+
+    section {
+        margin: 5px;
+    }
+
+    .section {
+        margin: 0px 0px 0px 0px;
+    }
+
+    header {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .logo img {
+        width: 250px;
+    }
+
+    .navbar {
+        padding-top: 30px;
+    }
+
+    .left-section {
+        padding-right: 0px;
+        padding-top: 0px;
+    }
+
+    .right-section img {
+        width: 300px;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    * {
+        margin: 0;
+        padding: 0;
+        text-decoration: none;
+        font-family: sans-serif serif;
+    }
+
+    section {
+        margin: 5px;
+    }
+
+    .section {
+        margin: 0px 0px 0px 0px;
+    }
+
+    header {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .logo img {
+        width: 275px;
+    }
+
+    .navbar {
+        padding-top: 45px;
+    }
+
+    .left-section {
+        padding-right: 0px;
+        padding-top: 0px;
+    }
+    section {
+        margin: 20px 50px 0 50px;
+    }
+    .section {
+        margin: 20px 100px 0 100px;
+    }
+
+    .right-section img {
+        width: 300px;
+    }
+}
